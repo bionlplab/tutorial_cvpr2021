@@ -133,7 +133,10 @@ table.schedule {
 	background-color: white;
 }
 
-
+p.title {
+	text-indent: -5em;
+	margin-left: 5em;
+}
 
 /* Notes */
 
